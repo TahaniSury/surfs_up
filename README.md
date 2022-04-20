@@ -11,4 +11,5 @@ The purpose of our analysis is to analyse temperature statistics for June and De
 
 ### December Statistics for the Temperature and Precipitation
 
+![Dec temp](https://github.com/TahaniSury/surfs_up/blob/main/Resources/Dec%20temp.png)
 
