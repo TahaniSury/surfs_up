@@ -7,4 +7,4 @@ The purpose of our analysis is to analyse temperature statistics for June and De
 
 ### June Statistics for the Temperature and Precipitation
 
-![]()
+![June temp](https://github.com/TahaniSury/surfs_up/blob/main/Resources/June%20temp.png)
